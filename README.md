@@ -1,6 +1,6 @@
 # Economic Analysis: Money Demand and Real Exchange Rate Determinants
 
-This repository contains the code and analysis for the final project on monetary and fiscal policy, which focuses on two primary topics:
+This repository contains the code used for the final project on Monetary and Fiscal Policy class, which focuses on two primary topics:
 
 ## 1. Money Demand in Ecuador (2001–2023)
 - Estimation of long-term and short-term money demand using:
@@ -27,10 +27,6 @@ This repository contains the code and analysis for the final project on monetary
   - The analysis highlights dynamic interactions using lagged variables.
 
 ## Features
-- **Data Sources**:
-  - Central Bank of Ecuador (BCE)
-  - National Institute of Statistics and Census (INEC)
-  - Federal Reserve Economic Data (FRED)
 - **Econometric Analysis**:
   - Time-series techniques: unit root tests, cointegration, and dynamic regression models.
   - Visualizations of trends and statistical results.
